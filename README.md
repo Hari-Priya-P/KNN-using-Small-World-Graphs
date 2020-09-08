@@ -7,6 +7,8 @@ This algorithm is divided into three sub-parts:<br/>
 - KNN Search : Search the graph for k-nearest neighbors
 - KNN Classifier : Classify new data points based on the k-nearest neighbors
 
+Citation: https://publications.hse.ru/mirror/pubs/share/folder/x5p6h7thif/direct/128296059
+
 ### Working of the Algorithm
 
 ![flowchart](https://github.com/Hari-Priya-P/KNN-using-Small-World-Graphs/blob/master/knn_swg.png)
